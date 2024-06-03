@@ -1,0 +1,31 @@
+[
+    {
+      "id": 1,
+      "title": "First Blog Post",
+      "author": "Mustafa Saeed",
+      "date": "2024-05-31",
+      "content": "This is the Mustafa having chat with You"
+    },
+    {
+      "id": 2,
+      "title": "Second Blog Post",
+      "author": "Abdullah Naseem",
+      "date": "2024-06-01",
+      "content": "This is Abdullah's second blog post."
+    },
+    {
+        "id": 1,
+        "title": "Third Blog Post",
+        "author": "Sheri",
+        "date": "2024-06-05",
+        "content": "This is the Shehriyar's Third blog post."
+      },
+      {
+        "id": 2,
+        "title": "Forth Blog Post",
+        "author": "Ahmad",
+        "date": "2024-06-07",
+        "content": "This is Ahmad's 4TH blog post."
+      }
+  ]
+  
